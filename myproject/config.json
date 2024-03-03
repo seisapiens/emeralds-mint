@@ -1,0 +1,83 @@
+{
+    "mnemonic": "regular palace exit father joy dice wash erase put ticket peanut chimney",
+    "rpc": "https://sei-rpc.polkachu.com/",
+    "network": "pacific-1",
+    "name": "Sei Emeralds",
+    "symbol": "EMD",
+    "description": "A cascade of 99 Emeralds has arrived at $SEI, catching the attention of SEI",
+    "supply": 99,
+    "token_uri": "https://arweave.net/vR4v02jeNxwCgm9Lbr6oDVijYmLRP1evsVGKVDNXOkg",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+
+        {
+            "name": "Team",
+            "merkle_root": "5d578d86c7bac91b6baacf6ad24723c8f6a95f0efc3b147180e66c03b579c1bc",
+            "max_tokens": 3,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            
+            
+             "start_time": "2024-03-03T16:00:00Z",
+             "end_time": "2024-03-03T16:30:00Z"
+            
+            
+        },
+
+        {
+            "name": "OG",
+            "merkle_root": "21868ce9a17f0c04d8b91056193fc4ed755a0e7fb1c75c535d22ae8d79305795",
+            "max_tokens": 3,
+            "unit_price": 99,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-03T16:30:00Z",
+             "end_time": "2024-03-03T17:30:00Z"
+        },
+
+        {
+            "name": "Whitelist",
+            "merkle_root": "951fb1fa84ad9633b34c8b6e0690dba82c5bf68168c3bab2d6eb3b6f562b8c0e",
+            "max_tokens": 2,
+            "unit_price": 99,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-03T17:30:00Z",
+             "end_time": "2024-03-03T18:30:00Z"
+        },
+
+        {
+            "name": "Public",
+            "merkle_root": null,
+            "max_tokens": 5,
+            "unit_price": 99,
+            "creators": [
+                {
+                    "address": "sei18c3hahy0xvph6nnfrw779g0lrudxdsqmj42qpl",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-03T18:30:00Z",
+             "end_time": "2024-03-03T19:30:00Z"
+        }
+    ]
+}
